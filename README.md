@@ -16,7 +16,7 @@
     <a href="https://nodei.co/npm/discord.js/"><img src="https://nodei.co/npm/discord.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
   </p>
 </div>
-
+This is a fork of discord.js to add support for selfbots
 ## Table of contents
 
 - [About](#about)
